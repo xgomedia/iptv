@@ -1,82 +1,55 @@
 #EXTM3U
 #EXTINF:-1,XGOmedia HD
-#EXTGRP:NACIONAL
 https://5eff35271151c.streamlock.net:1936/8062/8062/playlist.m3u8
 #EXTINF:-1,Happy Comunicaciones HD
-#EXTGRP:NACIONAL
 https://paneltv.online:1936/8048/8048/w416127612.m3u8
 #EXTINF:-1,RADIO MAGALLANES SD
-#EXTGRP:NACIONAL
 https://tv.livestation.stream:1936/magallanes/magallanes/playlist.m3u8
 #EXTINF:-1,RADIO PRESIDENTE IBAÑEZ SD
-#EXTGRP:NACIONAL
 https://ibanez.servercl.com/hls/live.m3u8
 #EXTINF:-1,RADIO POLAR SD
-#EXTGRP:NACIONAL
 https://mediacpstreamchile.com:1936/radiopolar/radiopolar/playlist.m3u8
 #EXTINF:-1,ITVPatagonia SD
-#EXTGRP:NACIONAL
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1,SOBERANIA HD
-#EXTGRP:NACIONAL
 https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8
 #EXTINF:-1,ElPinguinoTV SD
-#EXTGRP:NACIONAL
 http://167.114.133.205:1935/live/pinguinotv_720p/playlist.m3u8
 #EXTINF:-1,MASTV HD
-#EXTGRP:NACIONAL
 https://paneltv.online:1936/8118/8118/playlist.m3u8
 #EXTINF:-1,UMAGTV HD
-#EXTGRP:NACIONAL
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 #EXTINF:-1,UMAGTV2 HD
-#EXTGRP:NACIONAL
 https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF:-1,TVN HD
-#EXTGRP:NACIONAL
 http://hidra.live/live/mhwtygpz/647luQ3bCa/35294.ts
 #EXTINF:-1,TVN FHD
-#EXTGRP:NACIONAL
 http://hidra.live/live/mhwtygpz/647luQ3bCa/35296.ts
 #EXTINF:-1,MEGA HD
-#EXTGRP:NACIONAL
 http://hidra.live/live/mhwtygpz/647luQ3bCa/35298.ts
 #EXTINF:-1,MEGA FHD
-#EXTGRP:NACIONAL
 http://hidra.live/live/mhwtygpz/647luQ3bCa/35299.ts
 #EXTINF:-1,CHILEVISION HD
-#EXTGRP:NACIONAL
 http://hidra.live/live/mhwtygpz/647luQ3bCa/35301.ts
 #EXTINF:-1,CHILEVISION FHD
-#EXTGRP:NACIONAL
 http://hidra.live/live/mhwtygpz/647luQ3bCa/35302.ts
 #EXTINF:-1,CANAL 13
-#EXTGRP:NACIONAL
 http://hidra.live/live/mhwtygpz/647luQ3bCa/35304.ts
 #EXTINF:-1,CANAL 13 FHD
-#EXTGRP:NACIONAL
 http://hidra.live/live/mhwtygpz/647luQ3bCa/35305.ts
 #EXTINF:-1,LA RED HD
-#EXTGRP:NACIONAL
 http://hidra.live/live/mhwtygpz/647luQ3bCa/35310.ts
 #EXTINF:-1,BIO-BIO HD
-#EXTGRP:NACIONAL
 http://hidra.live/live/mhwtygpz/647luQ3bCa/35317.ts
 #EXTINF:-1,Temuco Televisión HD
-#EXTGRP:NACIONAL
 https://5eff35271151c.streamlock.net:1936/8038/8038/playlist.m3u8
 #EXTINF:-1,Patagonia Sport HD
-#EXTGRP:DEPORTE
 https://5eff35271151c.streamlock.net:1936/8100/8100/playlist.m3u8
 #EXTINF:-1,CDO HD
-#EXTGRP:DEPORTE
 http://hidra.live/live/mhwtygpz/647luQ3bCa/121890.ts
 #EXTINF:-1,DIRECT TV 1
-#EXTGRP:DEPORTE
 http://hidra.live/live/mhwtygpz/647luQ3bCa/121856.ts
 #EXTINF:-1,DIRECT TV 2
-#EXTGRP:DEPORTE
 http://hidra.live/live/mhwtygpz/647luQ3bCa/187724.ts
 #EXTINF:-1,TNT SPORT HD
-#EXTGRP:DEPORTE
 http://hidra.live/live/mhwtygpz/647luQ3bCa/34675.ts
